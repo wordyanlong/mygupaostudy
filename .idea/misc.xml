@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
