@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/gupaoedu-vip-pattern-adapter.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/gupaoedu-vip-pattern-adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/gupaoedu-vip-pattern-delegate.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/gupaoedu-vip-pattern-delegate.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-factory/gupaoedu-vip-pattern-factory.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-factory/gupaoedu-vip-pattern-factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-prototype/gupaoedu-vip-pattern-prototype.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-prototype/gupaoedu-vip-pattern-prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy/gupaoedu-vip-pattern-proxy.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-proxy/gupaoedu-vip-pattern-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-singleton/gupaoedu-vip-pattern-singleton.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-singleton/gupaoedu-vip-pattern-singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/gupaoedu-vip-pattern-strategy.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/gupaoedu-vip-pattern-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/gupaoedu-vip-pattern-template.iml" filepath="$PROJECT_DIR$/gupaoedu-vip-pattern-template/gupaoedu-vip-pattern-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mygupaostudy.iml" filepath="$PROJECT_DIR$/.idea/mygupaostudy.iml" />
     </modules>
   </component>

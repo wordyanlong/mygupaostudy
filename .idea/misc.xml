@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-singleton/pom.xml" />
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/pom.xml" />
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-template/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1157ba3a-4973-458b-a813-a92e9fe1055d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" afterDir="false" />
+    <list default="true" id="1157ba3a-4973-458b-a813-a92e9fe1055d" name="Default Changelist" comment="作业提交">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/gupaoedu-vip-pattern-adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gupaoedu-vip-pattern-template/gupaoedu-vip-pattern-template.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/DispatcherServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/PayStrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/PayStrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gupaoedu-vip-pattern-template/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gupaoedu-vip-pattern-template/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/MemberDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/MemberDaoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-factory/target/" />
     <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-prototype/target/" />
@@ -16,104 +33,114 @@
     <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-proxy/target/" />
     <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/target/" />
     <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/target/" />
+    <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-template/target/" />
+    <ignored path="$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mygupaostudy" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/PayStrategyTest.java">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/course/BigDataCourse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="154">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/Order.java">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/dao/MemberDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/promotion/PromotionActivityTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/JDPay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/Payment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/DispatcherServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="132" selection-start-line="132" selection-end-line="132" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/controllers/SystemController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="308">
+              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
               <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#1034#1035#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/loginadapter/v1/service/SinginForThirdService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="108" column="25" lean-forward="true" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/PayStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/UnionPay.java">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/PowerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/DC5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/AC220.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/PowerAdapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/loginadapter/v1/SiginForThirdServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/MemberDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/course/JavaCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,6 +158,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mid</find>
+      <find>checkHomework</find>
+      <find>selectall</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,6 +184,10 @@
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/Payment.java" />
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/DispatcherServlet.java" />
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/controllers/SystemController.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/RowMapper.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-template/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/MemberDaoTest.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/dao/MemberDao.java" />
       </list>
     </option>
   </component>
@@ -190,8 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,31 +230,315 @@
               <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="loginadapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="loginadapter" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="loginadapter" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="loginadapter" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="loginadapter" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+              <item name="adapters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="poweradapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygupaostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-pattern-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygupaostudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553074246496" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553157862888" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gupaoedu-vip-pattern-template/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26914662" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.gupaoedu.mydelegate.dto" />
-      <recent name="com.gupaoedu.mydelegate" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gupao\gupaoproject\咕泡作业\mygupaostudy\gupaoedu-vip-pattern-delegate\src\main\java\com\gupaoedu\mydelegate\dto" />
+      <recent name="D:\gupao\gupaoproject\咕泡作业\mygupaostudy\gupaoedu-vip-pattern-delegate\src\main\java\com\gupaoedu" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.gupaoedu.mydelegate.dto" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gupao\gupaoproject\咕泡作业\mygupaostudy\gupaoedu-vip-pattern-delegate\src\main\java\com\gupaoedu\mydelegate\dto" />
-      <recent name="D:\gupao\gupaoproject\咕泡作业\mygupaostudy\gupaoedu-vip-pattern-delegate\src\main\java\com\gupaoedu" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gupaoedu.mydelegate.dto" />
+      <recent name="com.gupaoedu.mydelegate" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,13 +553,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SystemController">
+  <component name="RunManager" selected="Application.MemberDaoTest">
     <configuration name="DispatcherServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.pattern.delegate.mvc.DispatcherServlet" />
       <module name="gupaoedu-vip-pattern-delegate" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gupaoedu.vip.pattern.delegate.mvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberDaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.pattern.template.jdbc.MemberDaoTest" />
+      <module name="gupaoedu-vip-pattern-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.pattern.template.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,6 +595,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberDaoTest" />
         <item itemvalue="Application.SystemController" />
         <item itemvalue="Application.DispatcherServlet" />
       </list>
@@ -302,18 +631,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.38926175" visible="true" weight="0.3464819" />
+      <window_info id="Structure" order="1" sideWeight="0.6107383" side_tool="true" weight="0.3464819" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Favorites" order="6" sideWeight="0.6107383" side_tool="true" weight="0.4280384" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32981783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32981783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,11 +650,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32981783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.23240939" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.16151386" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -336,155 +666,12 @@
     <MESSAGE value="作业提交" />
     <option name="LAST_COMMIT_MESSAGE" value="作业提交" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/simple/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/controllers/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/AliPay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/controllers/MemberController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/simple/DelegateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/simple/EmployeeA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/dto/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/dto/BaseDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/dto/BaseRespDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1295#1296#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1412#1413#0" expanded="true" />
-            <element signature="e#1419#1448#0" expanded="true" />
-            <element signature="e#1739#1768#0" expanded="true" />
-            <element signature="e#2045#2074#0" expanded="true" />
-            <element signature="e#2594#2623#0" expanded="true" />
-            <element signature="e#2875#2904#0" expanded="true" />
-            <element signature="e#3181#3210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/dto/ServiceEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/dto/ServiceEnum.java" />
     <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/mydelegate/dto/BaseResultEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -652,14 +839,14 @@
     <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/PayStrategyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/Order.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -673,14 +860,14 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="108" column="25" lean-forward="true" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+          <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-strategy/src/main/java/com/gupaoedu/vip/pattern/strategy/pay/payport/Payment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -705,14 +892,163 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-delegate/src/main/java/com/gupaoedu/vip/pattern/delegate/mvc/controllers/SystemController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/sql/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/course/NetworkCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/course/NetworkCourseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/RowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/executor/BatchExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/course/BigDataCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/course/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/MemberDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-template/src/main/java/com/gupaoedu/vip/pattern/template/jdbc/dao/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/loginadapter/v1/SiginForThirdServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/loginadapter/v1/service/SinginForThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/PowerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/DC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-adapter/src/main/java/com/gupaoedu/vip/pattern/adapter/poweradapter/PowerAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
